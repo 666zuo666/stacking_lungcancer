@@ -8,3 +8,4 @@ catboost==1.2.5
 matplotlib==3.9.2
 shap==0.45.1
 lightgbm==4.3.0
+pillow==10.4.0
